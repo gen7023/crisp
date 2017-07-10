@@ -1,1 +1,1 @@
-(setf path (
+(setf path (make-pathname :name "myfile"))
